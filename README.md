@@ -1,52 +1,24 @@
-FlixMate 🎥
-FlixMate is a Netflix clone for browsing and streaming movies and TV shows. Built with React, HTML, and CSS, it offers a sleek and responsive interface.
+# FlixMate Movie-TV Show Catalog App
 
-Features
-Browse trending movies and TV shows.
-Search functionality for quick access.
-Movie/show details pages with descriptions, ratings, and more.
-Responsive design for mobile and desktop devices.
-Tech Stack
-Frontend: React, HTML, CSS
-Libraries/Tools: React Router, React Slick (carousel), Slick Carousel
-Setup
-To Run the Frontend
-Clone the repo:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/flixmate.git
-Navigate to the frontend folder:
-bash
-Copy
-Edit
-cd flixmate
-Install the dependencies:
-bash
-Copy
-Edit
-npm install
-Start the development server:
-bash
-Copy
-Edit
-npm start
-Visit http://localhost:3000 in your browser.
-Folder Structure
-csharp
-Copy
-Edit
-flixmate/
-├── public/                # Public assets (index.html, images)
-├── src/                   # React source code
-│   ├── components/        # Reusable components
-│   ├── pages/             # Page components (e.g., Home, MovieDetail)
-│   └── App.js             # Main App component
-└── README.md              # Documentation
-Contributing
-Fork the repo and create a new branch.
-Commit changes and push the branch.
-Open a pull request.
-License
-Licensed under the MIT License.
+FlixMate is a front-end web application that allows users to browse movies and TV shows in a catalog format, similar to Netflix. It offers a clean and responsive interface with features like movie details and media previews.
 
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **JavaScript**: Core scripting language used to implement the functionality.
+- **HTML5**: For structuring the web pages.
+- **CSS**: Styling for a responsive design, ensuring compatibility across devices.
+
+## Features
+
+- Browse a catalog of movies and TV shows.
+- View detailed information about each movie/TV show.
+- Smooth, responsive user interface.
+- Mobile-friendly design for a seamless experience across all devices.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+Inspiration from Netflix's UI design.
+Thanks to React and the open-source community for making this project possible.
